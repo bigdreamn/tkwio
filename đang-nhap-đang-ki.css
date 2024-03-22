@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: none;
+    text-align: center;
+    
+}
+.account{
+    padding: 20%;
+    padding-bottom: 10px;
+
+}
+.accounts{
+    width: 900px;
+    height: 200px;
+    border: 1px solid #333;
+    padding: 20px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: #333;
+    font-weight: bold;
+
+}
